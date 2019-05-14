@@ -15,11 +15,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 locations:
   - venue: "Online"
     address: "https://carpentries.zoom.us/j/FIXME"
-
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -128,31 +123,17 @@ This is an online event. We will meet using the online videoconference software 
 <h4 id="accessibility">Accessibility</h4>
 
 We are committed to making this workshop
-accessible to everybody.
-The workshop organisers have checked that:
-
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-
-Materials will be provided in advance of the workshop and
-large-print handouts are available if needed by notifying the
-organizers in advance.  If we can help making learning easier for
-you (e.g. sign-language interpreters, lactation facilities) please
-please get in touch (using contact details below) and we will
-attempt to provide them.
+accessible to everybody. Please see below to access the workshop 
+materials in advance, and let us know if there's anything we can 
+do to make our online learning environment more accessible or inclusive 
+of your needs.
 
 {% endif %}
 
 <h3>Requirements</h3>
 
-Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as throughout the two days, we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
+The computer you use to connect to our sessions should have audio and ideally
+video capabilities.
 
 Please note that after this course is over, you will be asked to do
 three short follow-up exercises online in order to finish qualifying
